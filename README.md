@@ -1,4 +1,4 @@
-# Todo Laravel App Project Setup Guide
+# ADMM Laravel App Project Setup Guide
 
 This is a guide.
 
@@ -33,7 +33,7 @@ This is a guide.
 
 ## Step 4: Installation Instructions
 
-Follow these steps to download and set up the `todo-laravel-app` on your local server environment.
+Follow these steps to download and set up the `ADMM-laravel-app` on your local server environment.
 
 ### Prerequisites
 
@@ -51,10 +51,10 @@ Follow these steps to download and set up the `todo-laravel-app` on your local s
     git clone https://github.com/AARdacca/TaskList-Laravel.git
     ```
     ```bash
-    cd todo-laravel-app
+    cd ADMM-laravel-app
     ```
     ```bash
-    mv todo-laravel-app ../
+    mv ADMM-laravel-app ../
     ```
     ```bash
     cd ..
@@ -62,7 +62,7 @@ Follow these steps to download and set up the `todo-laravel-app` on your local s
 
 ### Step 1: Download the Repository
 
-1. Go to the GitHub repository URL where the `todo-laravel-app` is hosted.
+1. Go to the GitHub repository URL where the `ADMM-laravel-app` is hosted.
 2. Click on the green **Code** button, then select **Download ZIP** from the dropdown menu.
 3. Save the ZIP file to your desired location on your computer.
 
@@ -75,23 +75,23 @@ Follow these steps to download and set up the `todo-laravel-app` on your local s
 ### Step 3: Place the Application in `htdocs`
 
 1. Open the folder where you extracted the files.
-2. Find the `todo-laravel-app` directory.
+2. Find the `ADMM-laravel-app` directory.
 3. Copy this directory.
 4. Navigate to your XAMPP installation directory (usually `C:\xampp` on Windows).
 5. Open the `htdocs` folder inside the XAMPP directory.
-6. Paste the `todo-laravel-app` directory inside `htdocs`.
+6. Paste the `ADMM-laravel-app` directory inside `htdocs`.
 
-### Step 4: Confirm that `todo-laravel-app` directory is directly under htdocs.
+### Step 4: Confirm that `ADMM-laravel-app` directory is directly under htdocs.
 
-# Todo Laravel App Project Setup Instructions
+# ADMM Laravel App Project Setup Instructions
 This is a Laravel-based e-commerce website.
 Laravel Version 11.
 ## Extracting and Placing the Project
 1. After downloading the zipped project, extract it.
-2. Move the extracted `Todo Laravel App` project folder into the `htdocs` directory of your local server environment.
+2. Move the extracted `ADMM Laravel App` project folder into the `htdocs` directory of your local server environment.
 
 ## Opening and Setting Up the Project
-1. Open the `Todo Laravel App` folder using PowerShell, or use VS Code which has a pre-installed PowerShell terminal.
+1. Open the `ADMM Laravel App` folder using PowerShell, or use VS Code which has a pre-installed PowerShell terminal.
 2. Execute the following commands in your terminal to set up the project environment:
 
     ```powershell
@@ -124,7 +124,7 @@ Laravel Version 11.
     ```
 4. Open the provided link in your browser to view the application.
 
-Follow these instructions to properly set up and configure your Todo Laravel App project.
+Follow these instructions to properly set up and configure your ADMM Laravel App project.
 
 ## Further Assistance
 
