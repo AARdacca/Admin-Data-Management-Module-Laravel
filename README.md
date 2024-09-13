@@ -33,7 +33,7 @@ This is a guide.
 
 ## Step 4: Installation Instructions
 
-Follow these steps to download and set up the `ADMM-laravel-app` on your local server environment.
+Follow these steps to download and set up the `admm-laravel-app` on your local server environment.
 
 ### Prerequisites
 
@@ -51,10 +51,10 @@ Follow these steps to download and set up the `ADMM-laravel-app` on your local s
     git clone https://github.com/AARdacca/TaskList-Laravel.git
     ```
     ```bash
-    cd ADMM-laravel-app
+    cd admm-laravel-app
     ```
     ```bash
-    mv ADMM-laravel-app ../
+    mv admm-laravel-app ../
     ```
     ```bash
     cd ..
@@ -62,7 +62,7 @@ Follow these steps to download and set up the `ADMM-laravel-app` on your local s
 
 ### Step 1: Download the Repository
 
-1. Go to the GitHub repository URL where the `ADMM-laravel-app` is hosted.
+1. Go to the GitHub repository URL where the `admm-laravel-app` is hosted.
 2. Click on the green **Code** button, then select **Download ZIP** from the dropdown menu.
 3. Save the ZIP file to your desired location on your computer.
 
@@ -75,13 +75,13 @@ Follow these steps to download and set up the `ADMM-laravel-app` on your local s
 ### Step 3: Place the Application in `htdocs`
 
 1. Open the folder where you extracted the files.
-2. Find the `ADMM-laravel-app` directory.
+2. Find the `admm-laravel-app` directory.
 3. Copy this directory.
 4. Navigate to your XAMPP installation directory (usually `C:\xampp` on Windows).
 5. Open the `htdocs` folder inside the XAMPP directory.
-6. Paste the `ADMM-laravel-app` directory inside `htdocs`.
+6. Paste the `admm-laravel-app` directory inside `htdocs`.
 
-### Step 4: Confirm that `ADMM-laravel-app` directory is directly under htdocs.
+### Step 4: Confirm that `admm-laravel-app` directory is directly under htdocs.
 
 # ADMM Laravel App Project Setup Instructions
 This is a Laravel-based e-commerce website.
